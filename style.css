@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+form {
+    width: 600px;
+    margin: auto;
+    border: 1px solid gold;
+    padding: 20px;
+}
+
+label {
+    display: block;
+    width: 100%;
+}
